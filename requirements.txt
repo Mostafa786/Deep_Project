@@ -1,0 +1,8 @@
+tensorflow
+opencv-python
+keras
+requests
+numpy
+warnings
+os
+matplotlib
